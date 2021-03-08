@@ -16,9 +16,9 @@ function preload() {
   
   groundImg = loadImage("ground3.png");
   
-  brickImg = loadImage("brick.PNG");
+  brickImg = loadImage("brick.png");
   
-  bgimg = loadImage("bg1.png");
+  bgimg = loadImage("bg1.PNG");
   
   obstacleAnim = loadAnimation("obstacle1.png", "obstacle2.png", "obstacle3.png", "obstacle4.png");
 
